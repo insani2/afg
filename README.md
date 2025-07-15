@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Google Drive Video Player</title>
+  <title>perkenalan</title>
   <style>
     body { font-family: Arial, sans-serif; background: #f4f4f4; text-align: center; }
     .video-container { margin: 40px auto; width: 80%; max-width: 800px; }
